@@ -1,2 +1,3 @@
 added file in test3 for rebase testing
 update in main - directly from github
+updated in test3 from cli
